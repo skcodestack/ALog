@@ -1,0 +1,3 @@
+include ':alog'
+include ':app'
+rootProject.name = "ALog"
